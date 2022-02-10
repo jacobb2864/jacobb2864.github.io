@@ -41,7 +41,7 @@ _NOTE 2: If your file is on Google Drive, you need to download it to the compute
 
 ##### Previewing your site
 
-* In a new tab, go to `yourUserName.github.io` to see the preview of your site!
+* In a new tab, go to `jacob2864.github.io` to see the preview of your site!
 
 _NOTE: It may take up to a few minutes in order for your changes to be updated on the preview!_
 
