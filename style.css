@@ -35,17 +35,17 @@ a {
 }
 
 .bg-1 {
-    background-color: grey; /* grey */
+    background-color: black; 
     color: orange;
 }
 
 .bg-2 {
-    background-color: crimson; /* crimson */
+    background-color: crimson; 
     color: grey;
 }
 
 .card {
-    color: black;
+    color: blue;
     text-align: left;
 }
 
@@ -54,12 +54,12 @@ a {
 }
 
 .bg-3 {
-    background-color: #green; /* green*/
+    background-color: #green;
     color: #ffffff;
 }
 
 .bg-4 {
-    background-color: #343a40; /* Dark Gray */
+    background-color: magenta; 
     color: #fff;
 }
 
